@@ -1,3 +1,4 @@
+# This will work for any Desktop OS (Windows, MacOS, Linux Desktop)
 from selenium import webdriver
 import time
 
